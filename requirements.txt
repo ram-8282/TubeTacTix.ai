@@ -1,0 +1,7 @@
+streamlit 
+requests
+bertopic 
+umap-learn 
+hdbscan 
+google-api-python-client
+groq
